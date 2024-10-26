@@ -1,0 +1,143 @@
+Date,Location,Temperature (°C),Humidity (%),Weather_Type,Product_Category,Brand,Product_Price,Stock_Level,Shelf_Life (days),Visit_Frequency,Product_ID,Day_of_Week,Holiday/Event,Product_Name
+11-07-2024,Chennai,33,59,Clear,Snacks,Bingo!,102,51,144,Monthly,P1000,Thursday,None,Bingo Mad Angles
+25-10-2024,Mumbai,30,61,Clear,Frozen Foods,Haldiram's,92.29,76,316,Bi-Weekly,P1001,Friday,None,Haldiram's Paneer Tikka
+05-11-2024,Lucknow,24,76,Clear,Household Items,Surf Excel,80.04,89,184,Bi-Weekly,P1002,Tuesday,None,Surf Excel Easy Wash
+22-07-2024,Bangalore,32,65,Cloudy,Beverages,Pepsi,128.14,16,203,Weekly,P1003,Monday,None,Pepsi 300ml
+28-12-2024,Pune,25,69,Cloudy,Dairy Products,Amul,149.52,10,143,Monthly,P1004,Saturday,None,Amul Butter
+17-08-2024,Ahmedabad,21,74,Cloudy,Personal Care,Dove,39.96,26,187,Bi-Weekly,P1005,Saturday,None,Dove Soap
+29-09-2024,Pune,22,65,Clear,Bakery Items,Britannia,77.89,24,355,Weekly,P1006,Sunday,None,Britannia Fruit Cake
+05-11-2024,Mumbai,21,71,Clear,Meat & Poultry,Real Good,33.9,46,327,Monthly,P1007,Tuesday,None,Real Good Chicken Nuggets
+27-08-2024,Jaipur,34,60,Cloudy,Seafood,Ocean Fresh,130.27,39,162,Bi-Weekly,P1008,Tuesday,None,Ocean Fresh Prawns
+04-05-2024,Kolkata,28,59,Cloudy,Confectionery,Cadbury,69.61,10,30,Weekly,P1009,Saturday,None,Cadbury Dairy Milk
+22-12-2024,Kolkata,23,59,Clear,Baking Supplies,Pillsbury,121.69,31,342,Monthly,P1010,Sunday,None,Pillsbury Cake Mix
+13-07-2024,Bangalore,28,74,Cloudy,Cleaning Supplies,Harpic,42.25,77,118,Bi-Weekly,P1011,Saturday,None,Harpic Toilet Cleaner
+04-11-2024,Delhi,28,53,Clear,Oral Care,Colgate,93.8,59,282,Monthly,P1012,Monday,None,Colgate Toothpaste
+19-12-2024,Ahmedabad,28,76,Clear,Baby Products,Johnson's Baby,130.28,30,300,Monthly,P1013,Thursday,None,Johnson's Baby Lotion
+25-09-2024,Kolkata,35,55,Clear,Health Supplements,Horlicks,65.35,29,297,Weekly,P1014,Wednesday,None,Horlicks Malted Drink
+01-02-2024,Jaipur,35,52,Cloudy,Canned Goods,Del Monte,131.87,15,248,Monthly,P1015,Thursday,None,Del Monte Sweet Corn
+29-11-2024,Kolkata,24,59,Clear,Pet Supplies,Pedigree,56.93,39,133,Bi-Weekly,P1016,Friday,None,Pedigree Dog Food
+15-01-2024,Delhi,24,53,Clear,Stationery,Apsara,108.98,100,88,Weekly,P1017,Monday,None,Apsara Pencils
+06-12-2024,Hyderabad,28,54,Clear,Frozen Desserts,Kwality Walls,124.65,25,70,Weekly,P1018,Friday,None,Kwality Walls Ice Cream
+10-01-2024,Kolkata,20,52,Cloudy,Pasta & Noodles,Maggi,86.95,89,41,Weekly,P1019,Wednesday,None,Maggi Noodles
+09-05-2024,Chennai,33,79,Cloudy,Coffee,Nescafé,42.65,31,347,Bi-Weekly,P1020,Thursday,Mother's Day,Nescafé Classic
+29-04-2024,Chennai,32,71,Cloudy,Tea,Tata Tea,32.02,78,254,Bi-Weekly,P1021,Monday,None,Tata Tea Gold
+06-11-2024,Delhi,33,69,Cloudy,Cooking Oil,Fortune,113.11,88,218,Weekly,P1022,Wednesday,None,Fortune Sunflower Oil
+13-07-2024,Hyderabad,29,71,Clear,Breakfast Cereal,Kellogg's,78.1,15,86,Monthly,P1023,Saturday,None,Kellogg's Corn Flakes
+27-06-2024,Kolkata,33,65,Clear,Spices,Everest,114.85,62,54,Monthly,P1024,Thursday,None,Everest Garam Masala
+19-01-2024,Ahmedabad,34,76,Cloudy,Jams & Spreads,Kissan,59.22,42,285,Bi-Weekly,P1025,Friday,None,Kissan Mixed Fruit Jam
+02-09-2024,Ahmedabad,35,56,Clear,Sauces & Ketchups,Heinz,86.77,83,296,Bi-Weekly,P1026,Monday,None,Heinz Tomato Ketchup
+02-12-2024,Hyderabad,34,69,Cloudy,Pickles & Chutneys,Mother's Recipe,137.89,39,121,Bi-Weekly,P1027,Monday,None,Mother's Recipe Pickles
+08-05-2024,Lucknow,26,78,Clear,Breads,Modern,133.53,56,220,Bi-Weekly,P1028,Wednesday,None,Modern Bread
+12-05-2024,Chennai,27,52,Clear,Breakfast Bars,Nature Valley,124.31,83,306,Weekly,P1029,Sunday,None,Nature Valley Granola Bars
+17-11-2024,Bangalore,23,74,Clear,Canned Beverages,Red Bull,46.85,98,319,Bi-Weekly,P1030,Sunday,None,Red Bull Energy Drink
+10-10-2024,Lucknow,24,62,Clear,Soft Drinks,Thums Up,57.53,22,355,Bi-Weekly,P1031,Thursday,None,Thums Up
+30-05-2024,Chennai,34,50,Cloudy,Chocolates,Ferrero Rocher,88.49,27,163,Weekly,P1032,Thursday,None,Ferrero Rocher Chocolates
+14-02-2024,Delhi,25,55,Clear,Confectionery,Hershey's,115,30,200,Weekly,P1033,Wednesday,Valentine's Day,Hershey's Kisses
+26-01-2024,Bangalore,30,65,Cloudy,Beverages,Tropicana,90.75,45,180,Monthly,P1034,Friday,Republic Day,Tropicana Orange Juice
+02-10-2024,Chennai,31,60,Clear,Household Items,Vim,55.6,70,90,Bi-Weekly,P1035,Wednesday,Gandhi Jayanti,Vim Dishwash Gel
+25-12-2024,Mumbai,22,70,Clear,Snacks,Pringles,140.2,50,150,Weekly,P1036,Wednesday,Christmas,Pringles Sour Cream & Onion
+04-11-2024,Kolkata,24,80,Cloudy,Dairy Products,Mother Dairy,48.75,60,120,Weekly,P1037,Monday,Diwali,Mother Dairy Milk
+14-08-2024,Hyderabad,28,68,Clear,Personal Care,Nivea,135.6,40,300,Bi-Weekly,P1038,Wednesday,Independence Day Eve,Nivea Body Lotion
+31-10-2024,Ahmedabad,20,75,Cloudy,Bakery Items,Bonn,78.3,35,90,Monthly,P1039,Thursday,Halloween,Bonn Choco Lava Cake
+01-05-2024,Chennai,33,72,Clear,Health Supplements,ProteinX,250,25,200,Monthly,P1040,Wednesday,Labour Day,ProteinX Health Drink
+24-10-2024,Jaipur,29,69,Cloudy,Frozen Foods,ITC,132.45,32,180,Weekly,P1041,Thursday,Dussehra,ITC Frozen Paratha
+21-06-2024,Pune,35,58,Cloudy,Jams & Spreads,Nutella,250.3,27,250,Monthly,P1042,Friday,International Yoga Day,Nutella Hazelnut Spread
+14-04-2024,Chennai,29,65,Clear,Tea,Brooke Bond,65,44,180,Weekly,P1043,Sunday,Tamil New Year,Brooke Bond Red Label
+08-03-2024,Delhi,27,72,Cloudy,Coffee,Davidoff,180.2,36,150,Weekly,P1044,Friday,Women's Day,Davidoff Espresso
+13-04-2024,Amritsar,25,60,Clear,Spices,MDH,50.45,48,240,Bi-Weekly,P1045,Saturday,Baisakhi,MDH Chana Masala
+01-08-2024,Pune,31,68,Cloudy,Cooking Oil,Sundrop,112.6,55,150,Bi-Weekly,P1046,Thursday,Friendship Day,Sundrop Refined Oil
+15-01-2024,Chennai,30,65,Clear,Pickles & Chutneys,Tops,60.2,22,100,Weekly,P1047,Monday,Pongal,Tops Mango Pickle
+21-09-2024,Mumbai,28,72,Cloudy,Breakfast Bars,Kellogg's,150,40,180,Bi-Weekly,P1048,Saturday,None,Kellogg's Special K
+23-11-2024,Ahmedabad,24,70,Clear,Canned Goods,Heinz,105.75,36,120,Weekly,P1049,Saturday,None,Heinz Baked Beans
+02-12-2024,Jaipur,30,55,Cloudy,Pet Supplies,Drools,140.6,50,300,Monthly,P1050,Monday,None,Drools Puppy Food
+10-12-2024,Bangalore,29,60,Clear,Soft Drinks,Coca Cola,45.25,70,180,Bi-Weekly,P1051,Tuesday,None,Coca Cola Zero
+06-10-2024,Kolkata,32,68,Cloudy,Frozen Desserts,Cream Bell,120.3,22,90,Weekly,P1052,Sunday,Durga Puja,Cream Bell Kulfi
+27-03-2024,Hyderabad,36,50,Clear,Chocolates,Lindt,250,15,60,Monthly,P1053,Wednesday,Holi,Lindt Dark Chocolate
+18-04-2024,Chennai,31,73,Cloudy,Breads,Harvest Gold,60.25,25,100,Weekly,P1054,Thursday,None,Harvest Gold Brown Bread
+12-08-2024,Delhi,29,67,Clear,Breakfast Cereal,Patanjali,55.5,20,80,Weekly,P1055,Monday,Raksha Bandhan,Patanjali Oats
+22-09-2024,Mumbai,28,65,Cloudy,Jams & Spreads,Weikfield,75.3,30,90,Monthly,P1056,Sunday,Ganesh Chaturthi,Weikfield Fruit Spread
+15-08-2024,Bangalore,25,60,Clear,Dairy Products,Nestlé,90,40,150,Weekly,P1057,Thursday,Independence Day,Nestlé Milkmaid
+05-06-2024,Pune,26,72,Cloudy,Confectionery,Alpenliebe,40.2,60,120,Bi-Weekly,P1058,Wednesday,World Environment Day,Alpenliebe Candies
+08-08-2024,Chennai,28,62,Cloudy,Snacks,Kurkure,20,70,90,Weekly,P1059,Thursday,None,Kurkure Masala Munch
+30-09-2024,Ahmedabad,27,68,Clear,Health Supplements,Ensure,300,45,200,Monthly,P1060,Monday,None,Ensure Protein Shake
+05-07-2024,Jaipur,33,55,Cloudy,Tea,Wagh Bakri,90.2,35,150,Weekly,P1061,Friday,None,Wagh Bakri Premium Tea
+24-12-2024,Mumbai,22,60,Clear,Frozen Desserts,Amul,110.6,20,180,Weekly,P1062,Tuesday,Christmas Eve,Amul Ice Cream
+19-01-2024,Kolkata,28,67,Cloudy,Chocolates,Cadbury,70.25,50,90,Weekly,P1063,Friday,Makar Sankranti,Cadbury Dairy Milk Silk
+23-04-2024,Hyderabad,31,65,Clear,Confectionery,Mentos,30.45,60,120,Bi-Weekly,P1064,Tuesday,None,Mentos Mints
+15-05-2024,Chennai,33,70,Cloudy,Dairy Products,Britannia,85,55,120,Monthly,P1065,Wednesday,None,Britannia Cheese Slices
+21-02-2024,Bangalore,27,55,Clear,Breakfast Bars,Horlicks,95,30,150,Weekly,P1066,Thursday,None,Horlicks Protein Plus
+29-08-2024,Pune,30,68,Cloudy,Household Items,Lizol,125.3,40,200,Bi-Weekly,P1067,Thursday,Onam,Lizol Surface Cleaner
+06-01-2024,Mumbai,20,70,Clear,Soft Drinks,Pepsi,60.75,30,90,Monthly,P1069,Saturday,None,Pepsi Black
+19-09-2024,Hyderabad,32,62,Clear,Cooking Oil,Fortune,120.8,65,250,Bi-Weekly,P1071,Thursday,Ganesh Visarjan,Fortune Mustard Oil
+26-03-2024,Ahmedabad,36,52,Clear,Health Supplements,Horlicks,130.2,55,200,Bi-Weekly,P1073,Tuesday,None,Horlicks Growth
+16-12-2024,Pune,24,60,Clear,Beverages,Minute Maid,75.25,30,180,Monthly,P1074,Monday,None,Minute Maid Pulpy Orange
+20-02-2024,Chennai,31,74,Cloudy,Snacks,Balaji,45.6,45,150,Weekly,P1075,Tuesday,None,Balaji Wafers
+28-07-2024,Kolkata,27,78,Clear,Personal Care,Dettol,60,80,300,Bi-Weekly,P1076,Sunday,None,Dettol Liquid Soap
+11-03-2024,Jaipur,30,62,Cloudy,Bakery Items,English Oven,65.3,25,90,Weekly,P1077,Monday,Maha Shivaratri,English Oven Garlic Bread
+18-06-2024,Mumbai,34,54,Clear,Confectionery,Alpenliebe,20,35,180,Monthly,P1078,Tuesday,None,Alpenliebe Toffees
+05-02-2024,Hyderabad,32,58,Clear,Chocolates,Hershey's,95.2,40,90,Weekly,P1079,Monday,None,Hershey's Almond Chocolate
+09-11-2024,Bangalore,24,72,Cloudy,Frozen Desserts,Kwality Walls,110,30,120,Bi-Weekly,P1080,Saturday,None,Kwality Walls Chocolate Feast
+27-08-2024,Pune,31,69,Clear,Dairy Products,Amul,50.75,60,200,Monthly,P1081,Tuesday,Onam,Amul Fresh Cream
+14-09-2024,Chennai,26,65,Cloudy,Soft Drinks,Slice,35.6,70,150,Weekly,P1082,Saturday,None,Slice Mango Drink
+25-04-2024,Ahmedabad,29,67,Cloudy,Jams & Spreads,Nutella,180.8,50,200,Weekly,P1084,Thursday,None,Nutella Almond Butter
+16-08-2024,Hyderabad,31,58,Clear,Household Items,Vim,55.45,25,90,Monthly,P1085,Friday,None,Vim Bar
+05-07-2024,Jaipur,33,55,Cloudy,Tea,Wagh Bakri,50.5,50,730,Weekly,P1061,Thursday,None,Wagh Bakri Tea
+20-11-2024,Bangalore,22,70,Clear,Snacks,Haldiram's,120,40,180,Weekly,P1086,Wednesday,None,Haldiram's Bhujia
+18-01-2024,Mumbai,29,68,Clear,Dairy Products,Britannia,80,50,240,Monthly,P1087,Thursday,None,Britannia Cheese
+09-08-2024,Kolkata,30,75,Cloudy,Health Supplements,Amway,299,30,180,Bi-Weekly,P1088,Saturday,None,Amway Protein Powder
+01-07-2024,Jaipur,28,60,Clear,Frozen Foods,McCain,150,55,365,Weekly,P1089,Monday,None,McCain French Fries
+03-12-2024,Chennai,26,70,Cloudy,Beverages,Tropicana,50,80,365,Monthly,P1090,Tuesday,None,Tropicana Mango Juice
+14-03-2024,Delhi,32,65,Clear,Snacks,Lays,45,30,180,Weekly,P1091,Thursday,None,Lays Classic Chips
+29-04-2024,Bangalore,30,65,Cloudy,Bakery Items,Britannia,55,60,5,Monthly,P1093,Monday,May Day,Britannia Rusk
+24-09-2024,Chennai,28,65,Cloudy,Health Supplements,Herbalife,299.99,30,180,Monthly,P1095,Tuesday,None,Herbalife Protein Shake
+05-11-2024,Hyderabad,33,72,Clear,Frozen Desserts,Havmor,120,30,365,Weekly,P1096,Sunday,Diwali,Havmor Ice Cream
+11-02-2024,Pune,30,65,Clear,Snacks,Bingo,50,50,150,Weekly,P1099,Monday,None,Bingo Chips
+09-09-2024,Mumbai,28,70,Cloudy,Breakfast Bars,Quaker,95,30,180,Monthly,P1100,Tuesday,None,Quaker Oats Bars
+13-11-2024,Chennai,27,55,Clear,Cooking Oil,Fortune,120,60,365,Bi-Weekly,P1101,Wednesday,None,Fortune Sunlite Oil
+04-02-2024,Ahmedabad,25,68,Cloudy,Chocolates,Lindt,250,25,365,Monthly,P1102,Sunday,None,Lindt Milk Chocolate
+15-05-2024,Delhi,30,60,Clear,Personal Care,Nivea,150,50,730,Weekly,P1103,Wednesday,None,Nivea Moisturizer
+06-08-2024,Kolkata,29,70,Cloudy,Dairy Products,Mother Dairy,80,45,240,Monthly,P1104,Tuesday,None,Mother Dairy Butter
+30-11-2024,Bangalore,24,60,Clear,Frozen Foods,ITC,120,30,365,Bi-Weekly,P1105,Saturday,None,ITC Frozen Foods
+23-10-2024,Pune,26,75,Clear,Soft Drinks,Coca Cola,45.5,60,180,Weekly,P1106,Thursday,None,Coca Cola Regular
+16-01-2024,Chennai,28,70,Cloudy,Jams & Spreads,Weikfield,70,55,365,Monthly,P1108,Saturday,None,Weikfield Jam
+17-10-2024,Bangalore,26,60,Clear,Beverages,Fanta,50,40,180,Weekly,P1109,Thursday,None,Fanta Orange Drink
+22-04-2024,Kolkata,29,70,Cloudy,Breakfast Bars,Nutribar,75,50,180,Monthly,P1110,Tuesday,None,Nutribar Fruit & Nut Bar
+29-05-2024,Pune,33,68,Clear,Frozen Desserts,Cream Bell,80,25,365,Weekly,P1111,Wednesday,None,Cream Bell Ice Cream
+25-02-2024,Chennai,32,60,Clear,Cooking Oil,Sunlite,100,60,730,Monthly,P1112,Sunday,None,Sunlite Refined Oil
+11-12-2024,Mumbai,22,70,Clear,Snacks,Bingo,45,40,180,Bi-Weekly,P1113,Tuesday,Christmas Eve,Bingo Salted Chips
+17-09-2024,Jaipur,30,65,Cloudy,Dairy Products,Amul,70,55,240,Monthly,P1114,Wednesday,None,Amul Ghee
+04-10-2024,Hyderabad,35,60,Clear,Beverages,Tropicana,90,40,365,Bi-Weekly,P1115,Thursday,None,Tropicana Lemonade
+12-03-2024,Bangalore,28,70,Cloudy,Snacks,Lay's,40,50,180,Weekly,P1116,Tuesday,None,Lay's Classic Chips
+22-01-2024,Mumbai,24,75,Clear,Chocolates,Ferrero Rocher,750,20,365,Monthly,P1117,Saturday,None,Ferrero Rocher Box
+15-11-2024,Chennai,29,62,Cloudy,Personal Care,Palmers,200,50,730,Bi-Weekly,P1118,Friday,None,Palmers Cocoa Butter
+29-08-2024,Bangalore,30,68,Cloudy,Snacks,Haldiram's,95,45,180,Monthly,P1122,Tuesday,None,Haldiram's Kachori
+02-12-2024,Chennai,32,62,Clear,Soft Drinks,Sprite,50,40,180,Bi-Weekly,P1140,Sunday,None,Sprite Lemon Drink
+03-08-2024,Bangalore,28,65,Cloudy,Personal Care,Dove,180,40,730,Monthly,P1183,Friday,None,Dove Body Wash
+15-01-2025,Bangalore,32,65,Clear,Beverages,Coca Cola,50,50,180,Monthly,P1437,Wednesday,None,Coca Cola Diet
+20-02-2025,Chennai,28,58,Cloudy,Snacks,Haldiram's,60,100,180,Weekly,P1438,Monday,None,Haldiram's Namkeen
+25-03-2025,Pune,35,72,Clear,Health Supplements,MuscleBlaze,120,30,180,Monthly,P1439,Friday,None,MuscleBlaze Protein
+10-04-2025,Bangalore,31,63,Cloudy,Dairy Products,Amul,75,90,240,Monthly,P1440,Saturday,None,Amul Milk
+15-05-2025,Chennai,29,60,Clear,Beverages,Tropicana,90,60,365,Monthly,P1441,Tuesday,None,Tropicana Apple Juice
+20-06-2025,Pune,36,70,Clear,Snacks,Lay's,45,90,180,Weekly,P1442,Wednesday,None,Lay's Stax
+15-07-2025,Bangalore,27,55,Cloudy,Bakery Items,Britannia,55,50,5,Monthly,P1443,Sunday,None,Britannia Cream Roll
+05-09-2025,Pune,30,62,Cloudy,Health Supplements,Herbalife,300,30,180,Monthly,P1445,Thursday,None,Herbalife Meal Replacement
+20-10-2025,Bangalore,33,69,Clear,Snacks,Bingo,50,80,180,Weekly,P1446,Friday,None,Bingo Masala Chips
+15-11-2025,Chennai,31,66,Cloudy,Dairy Products,Mother Dairy,85,70,240,Monthly,P1447,Saturday,None,Mother Dairy Cheese
+10-12-2025,Pune,29,61,Clear,Beverages,Pepsi,55,75,180,Monthly,P1448,Tuesday,None,Pepsi Cola
+15-01-2025,Bangalore,34,64,Cloudy,Bakery Items,Britannia,60,90,5,Monthly,P1449,Sunday,None,Britannia Nutri Choice
+25-02-2025,Chennai,35,67,Clear,Snacks,Lay's,45,100,180,Weekly,P1450,Monday,None,Lay's Masala Chips
+10-03-2025,Pune,30,62,Cloudy,Health Supplements,Amway,250,30,180,Monthly,P1451,Friday,None,Amway Nutrilite Protein
+20-05-2025,Chennai,29,59,Clear,Cooking Oil,Fortune,110,40,730,Monthly,P1453,Saturday,None,Fortune Refined Oil
+10-06-2025,Pune,36,74,Cloudy,Snacks,Haldiram's,55,75,180,Weekly,P1454,Monday,None,Haldiram's Aloo Tikki
+25-07-2025,Bangalore,30,65,Clear,Beverages,Coca Cola,50,60,180,Monthly,P1455,Tuesday,None,Coca Cola Sprite
+20-08-2025,Chennai,30,64,Clear,Health Supplements,MuscleBlaze,150,30,180,Monthly,P1456,Saturday,None,MuscleBlaze Pre-Workout
+15-09-2025,Pune,29,70,Cloudy,Dairy Products,Mother Dairy,80,90,240,Monthly,P1457,Sunday,None,Mother Dairy Dahi
+10-10-2025,Bangalore,30,63,Clear,Bakery Items,Britannia,60,50,5,Monthly,P1458,Wednesday,None,Britannia Treat
+20-11-2025,Chennai,30,68,Cloudy,Beverages,Fanta,35,60,180,Monthly,P1459,Tuesday,None,Fanta Mango
+05-12-2025,Pune,34,66,Clear,Snacks,Bingo,55,75,180,Weekly,P1460,Saturday,None,Bingo Tomato Chips
+10-01-2025,Bangalore,32,69,Cloudy,Health Supplements,Herbalife,300,30,180,Monthly,P1461,Friday,None,Herbalife Formula 1
+25-04-2025,Bangalore,31,65,Cloudy,Bakery Items,Britannia,60,90,5,Monthly,P1464,Wednesday,None,Britannia Cookies
+15-06-2025,Pune,29,68,Clear,Health Supplements,Amway,250,30,180,Monthly,P1466,Tuesday,None,Amway Protein Shake
+14-01-2025,Chennai,28,65,Clear,Snacks,Haldiram's,60,100,180,Weekly,P1468,Tuesday,Pongal Festival,Haldiram's Sweet Rice
+25-05-2026,Chennai,32,65,Cloudy,Dairy Products,Amul,80,90,240,Monthly,P1492,Sunday,Eid Celebration,Amul Paneer
+15-08-2026,Chennai,30,64,Clear,Snacks,Haldiram's,60,75,180,Weekly,P1495,Tuesday,Raksha Bandhan,Haldiram's Sweets
