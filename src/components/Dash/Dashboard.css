@@ -1,0 +1,182 @@
+/* src/components/Dashboard/Dashboard.css */
+
+.sidebar {
+  width: 250px;
+  height: 100vh;
+  background-color: #121212;
+  color: #f0f0f0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 20px;
+  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.2);
+  /* position: fixed; */
+  transition: width 0.3s ease;
+}
+
+.sidebar h2 {
+  font-size: 1.5rem;
+  margin-bottom: 1.5rem;
+  font-weight: 600;
+  color: #ffffff;
+}
+
+.sidebar ul {
+  list-style-type: none;
+  padding: 0;
+  width: 100%;
+  margin-top: 20px; /* Consistent spacing */
+}
+
+.sidebar li {
+  width: 100%;
+  text-align: center;
+  padding: 10px 0;
+  transition: background 0.3s ease;
+}
+
+.sidebar li:hover {
+  background-color: #1f1f1f;
+}
+
+.sidebar li a {
+  color: #f0f0f0;
+  text-decoration: none;
+  font-size: 1.1rem;
+  font-weight: 500;
+  display: block;
+  width: 100%;
+  padding: 10px 0;
+  transition: color 0.3s ease, background-color 0.3s ease;
+}
+
+.sidebar li a:hover {
+  color: #ffffff;
+  background-color: #333333; /* Added subtle background on hover for better visibility */
+}
+
+hr {
+  border: none;
+  height: 2px; /* Thicker separator */
+  background: linear-gradient(to right, #ffffff33, #ffffff99); /* Subtle gradient for a modern look */
+  margin: 15px 0; /* Increased margin for separation */
+  width: 85%; /* Aligned with sidebar padding */
+  border-radius: 1px;
+  box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.5); /* Adds a soft shadow for depth */
+}
+
+.menu-section h3 {
+  color: #888888; /* Light gray for section headers */
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin: 15px 0 10px; /* Spacing for readability */
+  padding-left: 20px; /* Align section titles with sidebar items */
+}
+
+.icon {
+  margin-right: 10px; /* Added space between icon and text */
+  font-size: 1.1rem;
+}
+
+.dark-mode-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 85%;
+  margin-top: auto;
+  padding: 15px 0;
+  border-top: 1px solid #333333;
+  color: #888888;
+}
+
+.dark-mode-toggle input[type="checkbox"] {
+  transform: scale(1.2);
+  cursor: pointer;
+}
+
+/* Responsive adjustments for smaller screens */
+@media (max-width: 768px) {
+  .sidebar {
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+
+  .sidebar ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+
+  .sidebar li {
+    padding: 10px 5px; /* Adjusted for compact layout */
+  }
+
+  hr {
+    width: 100%;
+    margin: 10px 0;
+  }
+}
+/* src/components/Dashboard/Dashboard.css */
+
+.add-inventory-container {
+  margin-left: 260px; /* Offset for sidebar */
+  padding: 40px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #f0f0f0;
+}
+
+.page-title {
+  font-size: 2rem;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+
+.inventory-form {
+  background-color: #1f1f1f;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+  max-width: 500px;
+}
+
+.form-label {
+  display: block;
+  margin-bottom: 10px;
+  font-size: 1rem;
+  color: #f0f0f0;
+}
+
+.form-input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #333;
+  border-radius: 4px;
+  background-color: #333;
+  color: #f0f0f0;
+  margin-bottom: 15px;
+  font-size: 1rem;
+}
+
+.form-input:focus {
+  border-color: #888;
+  outline: none;
+}
+
+.submit-button {
+  width: 100%;
+  padding: 10px;
+  background-color: #333333;
+  color: #ffffff;
+  border: none;
+  border-radius: 4px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.submit-button:hover {
+  background-color: #444444;
+}

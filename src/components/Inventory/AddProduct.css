@@ -1,0 +1,118 @@
+/* src/components/Dashboard/AddProduct.css */
+
+body {
+    margin: 0; /* Remove default body margin */
+    padding: 0; /* Remove default body padding */
+    background-color: #282c34; /* Consistent background color */
+}
+
+/* Scrollbar styles for WebKit browsers */
+::-webkit-scrollbar {
+    width: 12px; /* Width of the scrollbar */
+}
+
+::-webkit-scrollbar-track {
+    background: #1f1f1f; /* Background of the scrollbar track */
+    border-radius: 10px; /* Rounded corners for the track */
+}
+
+::-webkit-scrollbar-thumb {
+    background: #eceff1; /* Color of the scrollbar thumb */
+    border-radius: 10px; /* Rounded corners for the thumb */
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #f2f4f6; /* Darker color on hover for the thumb */
+}
+
+/* Scrollbar styles for Firefox */
+* {
+    scrollbar-width: thin; /* Use thin scrollbar */
+    scrollbar-color: #007bff #1f1f1f; /* Thumb color and track color */
+}
+
+.dashboard-container {
+    display: flex; /* Use flexbox to align sidebar and form */
+    width: 100vw; /* Full viewport width */
+    height: 100vh; /* Full viewport height */
+    background-color: #282c34; /* Consistent dark background for the entire container */
+    justify-content: center; /* Center the form horizontally */
+    align-items: center; /* Center the form vertically */
+    overflow-y: auto; /* Enable vertical scrolling if needed */
+}
+
+.add-product-container {
+    padding: 40px;
+    width: 100%; /* Make the form take up the full container width */
+    max-width: 1200px; /* Limit the maximum width for readability */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #f0f0f0;
+    background-color: #282c34; /* Same background color to blend in */
+    border-radius: 12px; /* Rounded corners */
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3); /* Enhanced shadow effect */
+    overflow-y: auto; /* Enable vertical scrolling for the form container */
+    max-height: 90vh; /* Limit the height to prevent it from going off-screen */
+}
+
+.page-title {
+    font-size: 2rem;
+    color: #ffffff;
+    margin-bottom: 20px;
+    text-align: center; /* Center the title */
+}
+
+.product-form {
+    padding: 20px; /* Padding for the form */
+    width: 100%; /* Make sure the form takes up the full container width */
+}
+
+.form-group {
+    display: flex; /* Flexbox for icons and inputs */
+    align-items: center; /* Center the items vertically */
+    margin-bottom: 20px; /* Space between input fields */
+    border: 1px solid #444; /* Border around each group */
+    border-radius: 8px; /* Rounded corners */
+    padding: 10px; /* Padding inside the group */
+    background-color: #1f1f1f; /* Background for the group */
+    width: 100%; /* Ensure form group takes full width */
+}
+
+.form-icon {
+    color: #f0f0f0; /* Icon color */
+    margin-right: 10px; /* Space between icon and input */
+    font-size: 1.5rem; /* Larger icons */
+}
+
+.form-input {
+    width: 100%;
+    padding: 10px;
+    border: none; /* Remove default border */
+    background-color: transparent; /* Transparent background */
+    color: #f0f0f0;
+    font-size: 1rem;
+}
+
+.form-input:focus {
+    outline: none; /* Remove outline */
+}
+
+.submit-button {
+    width: 100%;
+    padding: 12px; /* More padding for the button */
+    background-color: #f8fbfe; /* Primary button color */
+    color: #ffffff;
+    border: none;
+    border-radius: 8px; /* Rounded corners for the button */
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background 0.3s ease, transform 0.2s ease; /* Smooth transitions */
+}
+
+.submit-button:hover {
+    background-color: #0056b3; /* Darker color on hover */
+    transform: translateY(-2px); /* Slight lift effect */
+}
+
+.submit-button:active {
+    transform: translateY(0); /* Reset lift on click */
+}
